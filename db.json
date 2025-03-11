@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 1,
       "user": {
         "id": "abc123",
         "name": "Adam"
@@ -16,7 +16,7 @@
       "attendees": []
     },
     {
-      "id": 456,
+      "id": 2,
       "user": {
         "id": "abc123",
         "name": "Adam"
@@ -31,7 +31,7 @@
       "attendees": []
     },
     {
-      "id": 789,
+      "id": 3,
       "user": {
         "id": "abc123",
         "name": "Adam"
@@ -44,6 +44,37 @@
       "date": "July 22, 2025",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "environmental welfare",
+      "organizer": "Adam",
+      "title": "Litter Gathering",
+      "description": "Clean parks!",
+      "location": "Quarry Reserve",
+      "date": "Sept 11, 2025",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Pooch Rehoming",
+      "description": "happy 4 legged friends!",
+      "location": "Animal Rescue",
+      "date": "Aug 12, 2025",
+      "time": "10:00",
+      "attendees": []
     }
+
   ]
 }
